@@ -23,3 +23,7 @@ header .owner-info {
 header p {
   text-align: justify;
 }
+
+.card-header img {
+  width: 100px;
+}
